@@ -25,6 +25,6 @@
   <a href = "mailto:kairo.amorim2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kairo-amorim-729371118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/kairo741/kairo741/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kairo741/kairo741/blob/output/github-contribution-grid-snake.svg)
  
 </div>
