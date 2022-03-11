@@ -26,8 +26,9 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: kairo741
           svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-snake.gif
           
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
