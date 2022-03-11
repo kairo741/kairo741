@@ -1,10 +1,10 @@
-
+ 
 ## Olá, sou Kairo Amorim. Um estudante de Engenharia de Software e Dev na NextAge
 <div align="center">
   <a href="https://github.com/kairo741">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kairo741&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairo741&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
+<div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
