@@ -17,7 +17,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  <img align="right" alt="Kairo-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/uc?export=view&id=1Y_z1zbnFKs3MxiCSzF0UK8DgVD2THlqP">
+  <img align="right" alt="Kairo-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/uc?export=view&id=1-c6zarMbcGpD_ie8Ezt54_-yj23wOSDx">
 </div>
   
   ##
