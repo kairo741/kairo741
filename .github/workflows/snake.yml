@@ -11,13 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: kairo741
           outputs: |
-            dist/github-contribution-grid-snake.svg?&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg?&color_dots=#161b22,#54323c,#955467,#bb4f6c,#fe6e95
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
