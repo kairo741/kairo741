@@ -15,6 +15,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kairo741&theme=dracula&locale=pt-br)](https://git.io/streak-stats)
 <div align="center">
 <div style="display: inline_block"><br>
+  <label align="left" style="font-size: 20px">⚡Skills: </label>
   <img align="center" alt="Java" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
