@@ -1,6 +1,12 @@
+<div style="display: flex; justify-content: center; align-items: center;" align="center">
+    <img align="left" alt="ed-smile" height="30" width="40" style="border-radius:50px;"
+        src="https://drive.google.com/uc?export=view&id=1KhE2jRjDn7_XsdH25GlrXmK6CK9gtfcb">
+    <h1 align="center" style="border-style: none;">Olá, sou Kairo Amorim!</h1>
+</div>
+<h6 align="center">Sou um estudante de Engenharia de Software no <a href="https://github.com/ifpr-paranavai">
+        IFPR</a> - <a href="https://paranavai.ifpr.edu.br/">Campus Paranavaí</a> e atualmente Dev na <a
+        href="http://www.nextage.com.br/">NextAge!</a></h6>
 
- 
-## Olá, sou Kairo Amorim! Um estudante de Engenharia de Software no <a href="https://github.com/ifpr-paranavai"> IFPR</a> - <a href="https://paranavai.ifpr.edu.br/">Campus Paranavaí</a> e  Dev na <a href="http://www.nextage.com.br/">NextAge</a>
 <div align="center">
   <a href="https://github.com/kairo741">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kairo741&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
