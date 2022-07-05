@@ -5,6 +5,7 @@
   <a href="https://github.com/kairo741">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kairo741&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairo741&layout=compact&langs_count=7&theme=rose_pine"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kairo741&theme=dracula&locale=pt-br)](https://git.io/streak-stats)
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40"
