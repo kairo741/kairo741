@@ -3,7 +3,7 @@
         src="https://drive.google.com/uc?export=view&id=1KhE2jRjDn7_XsdH25GlrXmK6CK9gtfcb">
     <h1 align="center" style="border-style: none;">Olá, sou Kairo Amorim!</h1>
 </div>
-<h6 align="center">Sou um estudante de Engenharia de Software no <a href="https://github.com/ifpr-paranavai">
+<h6 align="center">Sou um Engenheiro de Software formado pelo <a href="https://github.com/ifpr-paranavai">
         IFPR</a> - <a href="https://paranavai.ifpr.edu.br/">Campus Paranavaí</a> e atualmente Dev na <a
         href="http://www.nextage.com.br/">NextAge!</a></h6>
 
